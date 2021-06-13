@@ -31,7 +31,7 @@ Otherwise it will not run because all the java applications run on JVM which is 
 
 Whenever you clone this application first you import the dmp file of this application which is present in ...TechQuizzApp/TechQuizzApp/src/ ..into oracle sql Database.
 
-*  By using the command imp and then followed by database user, password  example :    imp <username>/<password>
+*  By using the command imp and then followed by database user, password  example :    imp username/password
 
  *  ps : before write the above command you must create the user in Oracle sql
  
