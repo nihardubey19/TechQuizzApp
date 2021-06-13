@@ -30,6 +30,7 @@ You must have JRE which is (Java Runtime Environment) and Oracle 14g or updated 
 Otherwise it will not run because all the java applications run on JVM which is present in JRE,  and cannot be installed directly the JVM. JRE is different from each OS.
 
 Whenever you clone this application first you import the dmp file of this application which is present in ...TechQuizzApp/TechQuizzApp/src/ ..into oracle sql Database.
+https://github.com/nihardubey19/TechQuizzApp/tree/master/TechQuizzApp/src
 
 *  By using the command imp and then followed by database user, password  example :    imp username/password
 
@@ -41,6 +42,7 @@ have a look, how you will do this ->
 
 After all, the copy of dmp (crash dump file) will be stored in your user, or in otherwords all the tables are copied to your user.
 
-
-Then Finally you can run this Amazing TechQuizzApp Java Desktop Application!
+Now Finally our database is connected you can run this appication by just one click on TechQuizApp.jar
+here is the link->
+https://github.com/nihardubey19/TechQuizzApp/tree/master/TechQuizzApp/dist
 
